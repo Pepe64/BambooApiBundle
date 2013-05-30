@@ -1,0 +1,29 @@
+{
+    "name": "medicorenl/bamboo-api-bundle",
+    "type": "symfony-bundle",
+    "description": "Bamboo REST api integration in Symfony",
+    "keywords": ["bamboo", "rest", "symfony"],
+    "authors": [
+        {
+            "name": "Kees Schepers",
+            "email": "kees@keesschepers.nl"
+        },
+        {
+            "name": "Liju Pallikadavath Mohanan",
+            "email": "liju.p.mohanan@medicore.nl"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.2",
+        "symfony/framework-bundle": "2.1.*",
+        "guzzle/guzzle": "3.5.*"
+
+    },
+    "autoload": {
+        "psr-0": {
+            "BambooApiBundle\\": ""
+        }
+    },
+    "target-dir" : "BambooApiBundle",
+    "minimum-stability": "dev"
+}
