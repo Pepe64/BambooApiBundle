@@ -1,0 +1,494 @@
+{
+    "expand": "plans",
+    "link": {
+        "href": "http://bamboo.medicore.nl/rest/api/latest/plan",
+        "rel": "self"
+    },
+    "plans": {
+        "expand": "plan",
+        "max-result": 12,
+        "plan": [
+            {
+                "actions": {
+                    "action": [
+                        {
+                            "name": "READ"
+                        }
+                    ],
+                    "max-result": 1,
+                    "size": 1,
+                    "start-index": 0
+                },
+                "averageBuildTimeInSeconds": 136.0,
+                "branches": {
+                    "max-result": 16,
+                    "size": 16,
+                    "start-index": 0
+                },
+                "description": "Atlas pull-request build.",
+                "enabled": true,
+                "expand": "actions,stages,branches",
+                "isActive": false,
+                "isBuilding": false,
+                "isFavourite": false,
+                "key": "ATLAS-BACKEND",
+                "link": {
+                    "href": "http://bamboo.medicore.nl/rest/api/latest/plan/ATLAS-BACKEND",
+                    "rel": "self"
+                },
+                "name": "Atlas - Atlas",
+                "projectKey": "ATLAS",
+                "projectName": "Atlas",
+                "shortKey": "BACKEND",
+                "shortName": "Atlas",
+                "stages": {
+                    "max-result": 1,
+                    "size": 1,
+                    "start-index": 0
+                },
+                "type": "chain"
+            },
+            {
+                "actions": {
+                    "action": [
+                        {
+                            "name": "READ"
+                        }
+                    ],
+                    "max-result": 1,
+                    "size": 1,
+                    "start-index": 0
+                },
+                "averageBuildTimeInSeconds": 9.0,
+                "branches": {
+                    "max-result": 2,
+                    "size": 2,
+                    "start-index": 0
+                },
+                "description": "The plan for the Atlas Symfony CLI bundle",
+                "enabled": true,
+                "expand": "actions,stages,branches",
+                "isActive": false,
+                "isBuilding": false,
+                "isFavourite": false,
+                "key": "ATLAS-ATLASCLIBUNDLE",
+                "link": {
+                    "href": "http://bamboo.medicore.nl/rest/api/latest/plan/ATLAS-ATLASCLIBUNDLE",
+                    "rel": "self"
+                },
+                "name": "Atlas - AtlasCliBundle",
+                "projectKey": "ATLAS",
+                "projectName": "Atlas",
+                "shortKey": "ATLASCLIBUNDLE",
+                "shortName": "AtlasCliBundle",
+                "stages": {
+                    "max-result": 1,
+                    "size": 1,
+                    "start-index": 0
+                },
+                "type": "chain"
+            },
+            {
+                "actions": {
+                    "action": [
+                        {
+                            "name": "READ"
+                        }
+                    ],
+                    "max-result": 1,
+                    "size": 1,
+                    "start-index": 0
+                },
+                "averageBuildTimeInSeconds": 77.0,
+                "branches": {
+                    "max-result": 3,
+                    "size": 3,
+                    "start-index": 0
+                },
+                "description": "Medicore Connect pull-request build.",
+                "enabled": true,
+                "expand": "actions,stages,branches",
+                "isActive": false,
+                "isBuilding": false,
+                "isFavourite": false,
+                "key": "CONNECT-PULLREQUEST",
+                "link": {
+                    "href": "http://bamboo.medicore.nl/rest/api/latest/plan/CONNECT-PULLREQUEST",
+                    "rel": "self"
+                },
+                "name": "Connect - Connect",
+                "projectKey": "CONNECT",
+                "projectName": "Connect",
+                "shortKey": "PULLREQUEST",
+                "shortName": "Connect",
+                "stages": {
+                    "max-result": 1,
+                    "size": 1,
+                    "start-index": 0
+                },
+                "type": "chain"
+            },
+            {
+                "actions": {
+                    "action": [
+                        {
+                            "name": "READ"
+                        }
+                    ],
+                    "max-result": 1,
+                    "size": 1,
+                    "start-index": 0
+                },
+                "averageBuildTimeInSeconds": 63.0,
+                "branches": {
+                    "max-result": 2,
+                    "size": 2,
+                    "start-index": 0
+                },
+                "description": "Pull-request build for Dot Validations rebuild project.",
+                "enabled": true,
+                "expand": "actions,stages,branches",
+                "isActive": false,
+                "isBuilding": false,
+                "isFavourite": false,
+                "key": "MCIS-DOT",
+                "link": {
+                    "href": "http://bamboo.medicore.nl/rest/api/latest/plan/MCIS-DOT",
+                    "rel": "self"
+                },
+                "name": "MCIS - Dot Validations",
+                "projectKey": "MCIS",
+                "projectName": "MCIS",
+                "shortKey": "DOT",
+                "shortName": "Dot Validations",
+                "stages": {
+                    "max-result": 1,
+                    "size": 1,
+                    "start-index": 0
+                },
+                "type": "chain"
+            },
+            {
+                "actions": {
+                    "action": [
+                        {
+                            "name": "READ"
+                        }
+                    ],
+                    "max-result": 1,
+                    "size": 1,
+                    "start-index": 0
+                },
+                "averageBuildTimeInSeconds": 355.0,
+                "branches": {
+                    "max-result": 3,
+                    "size": 3,
+                    "start-index": 0
+                },
+                "description": "MCIS EMR Toolkit project: pull-request build.",
+                "enabled": true,
+                "expand": "actions,stages,branches",
+                "isActive": false,
+                "isBuilding": false,
+                "isFavourite": false,
+                "key": "MCIS-EMRUNIQUEID",
+                "link": {
+                    "href": "http://bamboo.medicore.nl/rest/api/latest/plan/MCIS-EMRUNIQUEID",
+                    "rel": "self"
+                },
+                "name": "MCIS - EMR Toolkit",
+                "projectKey": "MCIS",
+                "projectName": "MCIS",
+                "shortKey": "EMRUNIQUEID",
+                "shortName": "EMR Toolkit",
+                "stages": {
+                    "max-result": 1,
+                    "size": 1,
+                    "start-index": 0
+                },
+                "type": "chain"
+            },
+            {
+                "actions": {
+                    "action": [
+                        {
+                            "name": "READ"
+                        }
+                    ],
+                    "max-result": 1,
+                    "size": 1,
+                    "start-index": 0
+                },
+                "averageBuildTimeInSeconds": 41.0,
+                "branches": {
+                    "max-result": 13,
+                    "size": 13,
+                    "start-index": 0
+                },
+                "description": "MCIS GUI project pull-request build.",
+                "enabled": true,
+                "expand": "actions,stages,branches",
+                "isActive": false,
+                "isBuilding": false,
+                "isFavourite": false,
+                "key": "MCIS-MCGUI",
+                "link": {
+                    "href": "http://bamboo.medicore.nl/rest/api/latest/plan/MCIS-MCGUI",
+                    "rel": "self"
+                },
+                "name": "MCIS - GUI",
+                "projectKey": "MCIS",
+                "projectName": "MCIS",
+                "shortKey": "MCGUI",
+                "shortName": "GUI",
+                "stages": {
+                    "max-result": 1,
+                    "size": 1,
+                    "start-index": 0
+                },
+                "type": "chain"
+            },
+            {
+                "actions": {
+                    "action": [
+                        {
+                            "name": "READ"
+                        }
+                    ],
+                    "max-result": 1,
+                    "size": 1,
+                    "start-index": 0
+                },
+                "averageBuildTimeInSeconds": 50.0,
+                "branches": {
+                    "max-result": 12,
+                    "size": 12,
+                    "start-index": 0
+                },
+                "enabled": true,
+                "expand": "actions,stages,branches",
+                "isActive": false,
+                "isBuilding": false,
+                "isFavourite": false,
+                "key": "MCIS-LEGAL",
+                "link": {
+                    "href": "http://bamboo.medicore.nl/rest/api/latest/plan/MCIS-LEGAL",
+                    "rel": "self"
+                },
+                "name": "MCIS - Legal Changes",
+                "projectKey": "MCIS",
+                "projectName": "MCIS",
+                "shortKey": "LEGAL",
+                "shortName": "Legal Changes",
+                "stages": {
+                    "max-result": 1,
+                    "size": 1,
+                    "start-index": 0
+                },
+                "type": "chain"
+            },
+            {
+                "actions": {
+                    "action": [
+                        {
+                            "name": "READ"
+                        }
+                    ],
+                    "max-result": 1,
+                    "size": 1,
+                    "start-index": 0
+                },
+                "averageBuildTimeInSeconds": 106.0,
+                "branches": {
+                    "max-result": 18,
+                    "size": 18,
+                    "start-index": 0
+                },
+                "description": "MCIS Maintenance project: pull-request build.",
+                "enabled": true,
+                "expand": "actions,stages,branches",
+                "isActive": false,
+                "isBuilding": false,
+                "isFavourite": false,
+                "key": "MCIS-MAINTENANCE",
+                "link": {
+                    "href": "http://bamboo.medicore.nl/rest/api/latest/plan/MCIS-MAINTENANCE",
+                    "rel": "self"
+                },
+                "name": "MCIS - Maintenance",
+                "projectKey": "MCIS",
+                "projectName": "MCIS",
+                "shortKey": "MAINTENANCE",
+                "shortName": "Maintenance",
+                "stages": {
+                    "max-result": 1,
+                    "size": 1,
+                    "start-index": 0
+                },
+                "type": "chain"
+            },
+            {
+                "actions": {
+                    "action": [
+                        {
+                            "name": "READ"
+                        }
+                    ],
+                    "max-result": 1,
+                    "size": 1,
+                    "start-index": 0
+                },
+                "averageBuildTimeInSeconds": 347.0,
+                "branches": {
+                    "max-result": 25,
+                    "size": 25,
+                    "start-index": 0
+                },
+                "description": "MCIS Rebuild 3.0 project: pull-request build.",
+                "enabled": true,
+                "expand": "actions,stages,branches",
+                "isActive": false,
+                "isBuilding": false,
+                "isFavourite": false,
+                "key": "MCIS-REBUILDPULLREQUEST",
+                "link": {
+                    "href": "http://bamboo.medicore.nl/rest/api/latest/plan/MCIS-REBUILDPULLREQUEST",
+                    "rel": "self"
+                },
+                "name": "MCIS - MCIS Rebuild 3.0",
+                "projectKey": "MCIS",
+                "projectName": "MCIS",
+                "shortKey": "REBUILDPULLREQUEST",
+                "shortName": "MCIS Rebuild 3.0",
+                "stages": {
+                    "max-result": 1,
+                    "size": 1,
+                    "start-index": 0
+                },
+                "type": "chain"
+            },
+            {
+                "actions": {
+                    "action": [
+                        {
+                            "name": "READ"
+                        }
+                    ],
+                    "max-result": 1,
+                    "size": 1,
+                    "start-index": 0
+                },
+                "averageBuildTimeInSeconds": 3342.0,
+                "branches": {
+                    "max-result": 0,
+                    "size": 0,
+                    "start-index": 0
+                },
+                "description": "MCIS Develop branch (next release) with GGZ 2.15 database",
+                "enabled": true,
+                "expand": "actions,stages,branches",
+                "isActive": false,
+                "isBuilding": false,
+                "isFavourite": false,
+                "key": "MCIS-MCISRELEASEGGZ",
+                "link": {
+                    "href": "http://bamboo.medicore.nl/rest/api/latest/plan/MCIS-MCISRELEASEGGZ",
+                    "rel": "self"
+                },
+                "name": "MCIS - MCIS Release (GGZ)",
+                "projectKey": "MCIS",
+                "projectName": "MCIS",
+                "shortKey": "MCISRELEASEGGZ",
+                "shortName": "MCIS Release (GGZ)",
+                "stages": {
+                    "max-result": 1,
+                    "size": 1,
+                    "start-index": 0
+                },
+                "type": "chain"
+            },
+            {
+                "actions": {
+                    "action": [
+                        {
+                            "name": "READ"
+                        }
+                    ],
+                    "max-result": 1,
+                    "size": 1,
+                    "start-index": 0
+                },
+                "averageBuildTimeInSeconds": 2091.0,
+                "branches": {
+                    "max-result": 0,
+                    "size": 0,
+                    "start-index": 0
+                },
+                "description": "MCIS Develop branch (next release) with Somatic 2.15 database",
+                "enabled": true,
+                "expand": "actions,stages,branches",
+                "isActive": false,
+                "isBuilding": false,
+                "isFavourite": false,
+                "key": "MCIS-MCISRELEASESOMATIC",
+                "link": {
+                    "href": "http://bamboo.medicore.nl/rest/api/latest/plan/MCIS-MCISRELEASESOMATIC",
+                    "rel": "self"
+                },
+                "name": "MCIS - MCIS Release (Somatic)",
+                "projectKey": "MCIS",
+                "projectName": "MCIS",
+                "shortKey": "MCISRELEASESOMATIC",
+                "shortName": "MCIS Release (Somatic)",
+                "stages": {
+                    "max-result": 1,
+                    "size": 1,
+                    "start-index": 0
+                },
+                "type": "chain"
+            },
+            {
+                "actions": {
+                    "action": [
+                        {
+                            "name": "READ"
+                        }
+                    ],
+                    "max-result": 1,
+                    "size": 1,
+                    "start-index": 0
+                },
+                "averageBuildTimeInSeconds": 1617.0,
+                "branches": {
+                    "max-result": 0,
+                    "size": 0,
+                    "start-index": 0
+                },
+                "description": "Tosca Automated Functional Test",
+                "enabled": true,
+                "expand": "actions,stages,branches",
+                "isActive": false,
+                "isBuilding": false,
+                "isFavourite": false,
+                "key": "MCIS-TOSCA",
+                "link": {
+                    "href": "http://bamboo.medicore.nl/rest/api/latest/plan/MCIS-TOSCA",
+                    "rel": "self"
+                },
+                "name": "MCIS - Tosca",
+                "projectKey": "MCIS",
+                "projectName": "MCIS",
+                "shortKey": "TOSCA",
+                "shortName": "Tosca",
+                "stages": {
+                    "max-result": 1,
+                    "size": 1,
+                    "start-index": 0
+                },
+                "type": "chain"
+            }
+        ],
+        "size": 12,
+        "start-index": 0
+    }
+}
