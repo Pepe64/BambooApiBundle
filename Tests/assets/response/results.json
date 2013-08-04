@@ -1,0 +1,888 @@
+{
+    "results": {
+        "size": 12,
+        "expand": "result",
+        "start-index": 0,
+        "max-result": 12,
+        "result": [
+            {
+                "expand": "plan,vcsRevisions,artifacts,comments,labels,jiraIssues,stages",
+                "link": {
+                    "href": "http://domain.com/rest/api/latest/result/PLAN-KEY-70",
+                    "rel": "self"
+                },
+                "plan": {
+                    "shortName": "Plan",
+                    "shortKey": "PLAN-KEY",
+                    "type": "chain",
+                    "enabled": true,
+                    "link": {
+                        "href": "http://domain.com/rest/api/latest/plan/PLAN-KEY",
+                        "rel": "self"
+                    },
+                    "key": "PLAN-KEY",
+                    "name": "Plan name"
+                },
+                "planName": "Plan name",
+                "projectName": "PROJECT-NAME",
+                "lifeCycleState": "Finished",
+                "id": 11600489,
+                "buildStartedTime": "2013-07-31T16:23:40.000+02:00",
+                "prettyBuildStartedTime": "Wed, 31 Jul, 04:23 PM",
+                "buildCompletedTime": "2013-07-31T16:25:49.000+02:00",
+                "prettyBuildCompletedTime": "Wed, 31 Jul, 04:25 PM",
+                "buildDurationInSeconds": 129,
+                "buildDuration": 129570,
+                "buildDurationDescription": "2 minutes",
+                "buildRelativeTime": "4 days ago",
+                "vcsRevisionKey": "1b016667b569b4a4d1f6db46b5faa3989193ae14",
+                "vcsRevisions": {
+                    "size": 1,
+                    "start-index": 0,
+                    "max-result": 1
+                },
+                "buildTestSummary": "27 passed",
+                "successfulTestCount": 27,
+                "failedTestCount": 0,
+                "quarantinedTestCount": 0,
+                "continuable": false,
+                "onceOff": false,
+                "restartable": false,
+                "buildReason": "Changes by <a href=\"http://domain.com/browse/user/someone.somewhere\">Someone Somewhere</a>",
+                "artifacts": {
+                    "size": 0,
+                    "start-index": 0,
+                    "max-result": 0
+                },
+                "comments": {
+                    "size": 0,
+                    "start-index": 0,
+                    "max-result": 0
+                },
+                "labels": {
+                    "size": 0,
+                    "start-index": 0,
+                    "max-result": 0
+                },
+                "jiraIssues": {
+                    "size": 0,
+                    "start-index": 0,
+                    "max-result": 0
+                },
+                "stages": {
+                    "size": 1,
+                    "start-index": 0,
+                    "max-result": 1
+                },
+                "key": "PLAN-KEY-70",
+                "state": "Successful",
+                "number": 70
+            },
+            {
+                "expand": "plan,vcsRevisions,artifacts,comments,labels,jiraIssues,stages",
+                "link": {
+                    "href": "http://domain.com/rest/api/latest/result/PLAN-KEY-10",
+                    "rel": "self"
+                },
+                "plan": {
+                    "shortName": "Plan",
+                    "shortKey": "PLAN-KEY",
+                    "type": "chain",
+                    "enabled": true,
+                    "link": {
+                        "href": "http://domain.com/rest/api/latest/plan/PLAN-KEY",
+                        "rel": "self"
+                    },
+                    "key": "PLAN-KEY",
+                    "name": "Plan name"
+                },
+                "planName": "Plan name",
+                "projectName": "PROJECT-NAME",
+                "lifeCycleState": "Finished",
+                "id": 11600117,
+                "buildStartedTime": "2013-07-29T15:46:40.000+02:00",
+                "prettyBuildStartedTime": "Mon, 29 Jul, 03:46 PM",
+                "buildCompletedTime": "2013-07-29T15:46:49.000+02:00",
+                "prettyBuildCompletedTime": "Mon, 29 Jul, 03:46 PM",
+                "buildDurationInSeconds": 9,
+                "buildDuration": 9490,
+                "buildDurationDescription": "9 seconds",
+                "buildRelativeTime": "6 days ago",
+                "vcsRevisionKey": "541d0ce5841e9e3f39bbc68b1e3fd304e85e2943",
+                "vcsRevisions": {
+                    "size": 1,
+                    "start-index": 0,
+                    "max-result": 1
+                },
+                "buildTestSummary": "40 passed",
+                "successfulTestCount": 40,
+                "failedTestCount": 0,
+                "quarantinedTestCount": 0,
+                "continuable": false,
+                "onceOff": false,
+                "restartable": false,
+                "buildReason": "Changes by <a href=\"http://domain.com/browse/user/someone.somewhere\">Someone Somewhere</a>",
+                "artifacts": {
+                    "size": 0,
+                    "start-index": 0,
+                    "max-result": 0
+                },
+                "comments": {
+                    "size": 0,
+                    "start-index": 0,
+                    "max-result": 0
+                },
+                "labels": {
+                    "size": 0,
+                    "start-index": 0,
+                    "max-result": 0
+                },
+                "jiraIssues": {
+                    "size": 1,
+                    "start-index": 0,
+                    "max-result": 1
+                },
+                "stages": {
+                    "size": 1,
+                    "start-index": 0,
+                    "max-result": 1
+                },
+                "key": "PLAN-KEY",
+                "state": "Successful",
+                "number": 10
+            },
+            {
+                "expand": "plan,vcsRevisions,artifacts,comments,labels,jiraIssues,stages",
+                "link": {
+                    "href": "http://domain.com/rest/api/latest/result/PLAN-KEY-32",
+                    "rel": "self"
+                },
+                "plan": {
+                    "shortName": "Plan",
+                    "shortKey": "PLAN-KEY",
+                    "type": "chain",
+                    "enabled": true,
+                    "link": {
+                        "href": "http://domain.com/rest/api/latest/plan/PLAN-KEY",
+                        "rel": "self"
+                    },
+                    "key": "PLAN-KEY",
+                    "name": "Plan name"
+                },
+                "planName": "Plan name",
+                "projectName": "PROJECT-NAME",
+                "lifeCycleState": "Finished",
+                "id": 11600089,
+                "buildStartedTime": "2013-07-29T13:52:49.000+02:00",
+                "prettyBuildStartedTime": "Mon, 29 Jul, 01:52 PM",
+                "buildCompletedTime": "2013-07-29T13:54:05.000+02:00",
+                "prettyBuildCompletedTime": "Mon, 29 Jul, 01:54 PM",
+                "buildDurationInSeconds": 76,
+                "buildDuration": 76446,
+                "buildDurationDescription": "1 minute",
+                "buildRelativeTime": "6 days ago",
+                "vcsRevisionKey": "8d1fdaa7aaa24267239b611a6e0a248a6051ba07",
+                "vcsRevisions": {
+                    "size": 1,
+                    "start-index": 0,
+                    "max-result": 1
+                },
+                "buildTestSummary": "16 passed",
+                "successfulTestCount": 16,
+                "failedTestCount": 0,
+                "quarantinedTestCount": 0,
+                "continuable": false,
+                "onceOff": false,
+                "restartable": false,
+                "buildReason": "Manual run by <a href=\"http://domain.com/browse/user/someone.somewhere\">Someone Somewhere</a>",
+                "artifacts": {
+                    "size": 0,
+                    "start-index": 0,
+                    "max-result": 0
+                },
+                "comments": {
+                    "size": 0,
+                    "start-index": 0,
+                    "max-result": 0
+                },
+                "labels": {
+                    "size": 0,
+                    "start-index": 0,
+                    "max-result": 0
+                },
+                "jiraIssues": {
+                    "size": 0,
+                    "start-index": 0,
+                    "max-result": 0
+                },
+                "stages": {
+                    "size": 1,
+                    "start-index": 0,
+                    "max-result": 1
+                },
+                "key": "PLAN-KEY",
+                "state": "Successful",
+                "number": 32
+            },
+            {
+                "expand": "plan,vcsRevisions,artifacts,comments,labels,jiraIssues,stages",
+                "link": {
+                    "href": "http://domain.com/rest/api/latest/result/PLAN-KEY-38",
+                    "rel": "self"
+                },
+                "plan": {
+                    "shortName": "Plan",
+                    "shortKey": "PLAN-KEY",
+                    "type": "chain",
+                    "enabled": true,
+                    "link": {
+                        "href": "http://domain.com/rest/api/latest/plan/PLAN-KEY",
+                        "rel": "self"
+                    },
+                    "key": "PLAN-KEY",
+                    "name": "Plan name"
+                },
+                "planName": "Plan name",
+                "projectName": "PROJECT-NAME",
+                "lifeCycleState": "Finished",
+                "id": 11600721,
+                "buildStartedTime": "2013-08-02T11:18:43.000+02:00",
+                "prettyBuildStartedTime": "Fri, 2 Aug, 11:18 AM",
+                "buildCompletedTime": "2013-08-02T11:19:00.000+02:00",
+                "prettyBuildCompletedTime": "Fri, 2 Aug, 11:19 AM",
+                "buildDurationInSeconds": 17,
+                "buildDuration": 17554,
+                "buildDurationDescription": "17 seconds",
+                "buildRelativeTime": "2 days ago",
+                "vcsRevisionKey": "38c95a2ad6584e7ace9ef82d467301ea4a26f2ea",
+                "vcsRevisions": {
+                    "size": 1,
+                    "start-index": 0,
+                    "max-result": 1
+                },
+                "buildTestSummary": "No tests found",
+                "successfulTestCount": 0,
+                "failedTestCount": 0,
+                "quarantinedTestCount": 0,
+                "continuable": false,
+                "onceOff": false,
+                "restartable": false,
+                "buildReason": "Changes by <a href=\"http://domain.com/browse/user/someone.somewhere\">Someone Somewhere</a>",
+                "artifacts": {
+                    "size": 0,
+                    "start-index": 0,
+                    "max-result": 0
+                },
+                "comments": {
+                    "size": 0,
+                    "start-index": 0,
+                    "max-result": 0
+                },
+                "labels": {
+                    "size": 0,
+                    "start-index": 0,
+                    "max-result": 0
+                },
+                "jiraIssues": {
+                    "size": 1,
+                    "start-index": 0,
+                    "max-result": 1
+                },
+                "stages": {
+                    "size": 1,
+                    "start-index": 0,
+                    "max-result": 1
+                },
+                "key": "PLAN-KEY",
+                "state": "Successful",
+                "number": 38
+            },
+            {
+                "expand": "plan,vcsRevisions,artifacts,comments,labels,jiraIssues,stages",
+                "link": {
+                    "href": "http://domain.com/rest/api/latest/result/PLAN-KEY-37",
+                    "rel": "self"
+                },
+                "plan": {
+                    "shortName": "Plan",
+                    "shortKey": "PLAN-KEY",
+                    "type": "chain",
+                    "enabled": true,
+                    "link": {
+                        "href": "http://domain.com/rest/api/latest/plan/PLAN-KEY",
+                        "rel": "self"
+                    },
+                    "key": "PLAN-KEY",
+                    "name": "Plan name"
+                },
+                "planName": "Plan name",
+                "projectName": "PROJECT-NAME",
+                "lifeCycleState": "Finished",
+                "id": 11600493,
+                "buildStartedTime": "2013-07-31T16:32:40.000+02:00",
+                "prettyBuildStartedTime": "Wed, 31 Jul, 04:32 PM",
+                "buildCompletedTime": "2013-07-31T16:38:34.000+02:00",
+                "prettyBuildCompletedTime": "Wed, 31 Jul, 04:38 PM",
+                "buildDurationInSeconds": 354,
+                "buildDuration": 354520,
+                "buildDurationDescription": "5 minutes",
+                "buildRelativeTime": "4 days ago",
+                "vcsRevisionKey": "71a81fb670d8db79da5a22733daf636046e92302",
+                "vcsRevisions": {
+                    "size": 1,
+                    "start-index": 0,
+                    "max-result": 1
+                },
+                "buildTestSummary": "181 passed",
+                "successfulTestCount": 181,
+                "failedTestCount": 0,
+                "quarantinedTestCount": 0,
+                "continuable": false,
+                "onceOff": false,
+                "restartable": false,
+                "buildReason": "Manual run by <a href=\"http://domain.com/browse/user/someone.somewhere\">Someone Somewhere</a>",
+                "artifacts": {
+                    "size": 0,
+                    "start-index": 0,
+                    "max-result": 0
+                },
+                "comments": {
+                    "size": 0,
+                    "start-index": 0,
+                    "max-result": 0
+                },
+                "labels": {
+                    "size": 0,
+                    "start-index": 0,
+                    "max-result": 0
+                },
+                "jiraIssues": {
+                    "size": 1,
+                    "start-index": 0,
+                    "max-result": 1
+                },
+                "stages": {
+                    "size": 1,
+                    "start-index": 0,
+                    "max-result": 1
+                },
+                "key": "PLAN-KEY",
+                "state": "Successful",
+                "number": 37
+            },
+            {
+                "expand": "plan,vcsRevisions,artifacts,comments,labels,jiraIssues,stages",
+                "link": {
+                    "href": "http://domain.com/rest/api/latest/result/PLAN-KEY-232",
+                    "rel": "self"
+                },
+                "plan": {
+                    "shortName": "Plan",
+                    "shortKey": "PLAN-KEY",
+                    "type": "chain",
+                    "enabled": true,
+                    "link": {
+                        "href": "http://domain.com/rest/api/latest/plan/PLAN-KEY",
+                        "rel": "self"
+                    },
+                    "key": "PLAN-KEY",
+                    "name": "Plan name"
+                },
+                "planName": "Plan name",
+                "projectName": "PROJECT-NAME",
+                "lifeCycleState": "Finished",
+                "id": 11600735,
+                "buildStartedTime": "2013-08-02T12:09:47.000+02:00",
+                "prettyBuildStartedTime": "Fri, 2 Aug, 12:09 PM",
+                "buildCompletedTime": "2013-08-02T12:10:03.000+02:00",
+                "prettyBuildCompletedTime": "Fri, 2 Aug, 12:10 PM",
+                "buildDurationInSeconds": 16,
+                "buildDuration": 16875,
+                "buildDurationDescription": "16 seconds",
+                "buildRelativeTime": "2 days ago",
+                "vcsRevisionKey": "5cc1632991a608f6b92bd55047e8ed049a1ca0a4",
+                "vcsRevisions": {
+                    "size": 1,
+                    "start-index": 0,
+                    "max-result": 1
+                },
+                "buildTestSummary": "No tests found",
+                "successfulTestCount": 0,
+                "failedTestCount": 0,
+                "quarantinedTestCount": 0,
+                "continuable": false,
+                "onceOff": false,
+                "restartable": false,
+                "buildReason": "Changes by <a href=\"http://domain.com/browse/user/someone.somewhere\">Someone Somewhere</a>",
+                "artifacts": {
+                    "size": 0,
+                    "start-index": 0,
+                    "max-result": 0
+                },
+                "comments": {
+                    "size": 0,
+                    "start-index": 0,
+                    "max-result": 0
+                },
+                "labels": {
+                    "size": 0,
+                    "start-index": 0,
+                    "max-result": 0
+                },
+                "jiraIssues": {
+                    "size": 0,
+                    "start-index": 0,
+                    "max-result": 0
+                },
+                "stages": {
+                    "size": 1,
+                    "start-index": 0,
+                    "max-result": 1
+                },
+                "key": "PLAN-KEY",
+                "state": "Successful",
+                "number": 232
+            },
+            {
+                "expand": "plan,vcsRevisions,artifacts,comments,labels,jiraIssues,stages",
+                "link": {
+                    "href": "http://domain.com/rest/api/latest/result/PLAN-KEY-106",
+                    "rel": "self"
+                },
+                "plan": {
+                    "shortName": "Plan",
+                    "shortKey": "PLAN-KEY",
+                    "type": "chain",
+                    "enabled": true,
+                    "link": {
+                        "href": "http://domain.com/rest/api/latest/plan/PLAN-KEY",
+                        "rel": "self"
+                    },
+                    "key": "PLAN-KEY",
+                    "name": "Plan name"
+                },
+                "planName": "Plan name",
+                "projectName": "PROJECT-NAME",
+                "lifeCycleState": "Finished",
+                "id": 11600693,
+                "buildStartedTime": "2013-08-02T09:57:47.000+02:00",
+                "prettyBuildStartedTime": "Fri, 2 Aug, 09:57 AM",
+                "buildCompletedTime": "2013-08-02T10:00:57.000+02:00",
+                "prettyBuildCompletedTime": "Fri, 2 Aug, 10:00 AM",
+                "buildDurationInSeconds": 190,
+                "buildDuration": 190479,
+                "buildDurationDescription": "3 minutes",
+                "buildRelativeTime": "2 days ago",
+                "vcsRevisionKey": "e124f12447975a32833a17f276e470eb2aadb80c",
+                "vcsRevisions": {
+                    "size": 1,
+                    "start-index": 0,
+                    "max-result": 1
+                },
+                "buildTestSummary": "10 passed",
+                "successfulTestCount": 10,
+                "failedTestCount": 0,
+                "quarantinedTestCount": 0,
+                "continuable": false,
+                "onceOff": false,
+                "restartable": false,
+                "buildReason": "Changes by <a href=\"http://domain.com/browse/user/someone.somewhere\">Someone Somewhere</a>",
+                "artifacts": {
+                    "size": 0,
+                    "start-index": 0,
+                    "max-result": 0
+                },
+                "comments": {
+                    "size": 0,
+                    "start-index": 0,
+                    "max-result": 0
+                },
+                "labels": {
+                    "size": 0,
+                    "start-index": 0,
+                    "max-result": 0
+                },
+                "jiraIssues": {
+                    "size": 1,
+                    "start-index": 0,
+                    "max-result": 1
+                },
+                "stages": {
+                    "size": 1,
+                    "start-index": 0,
+                    "max-result": 1
+                },
+                "key": "PLAN-KEY",
+                "state": "Successful",
+                "number": 106
+            },
+            {
+                "expand": "plan,vcsRevisions,artifacts,comments,labels,jiraIssues,stages",
+                "link": {
+                    "href": "http://domain.com/rest/api/latest/result/PLAN-KEY-78",
+                    "rel": "self"
+                },
+                "plan": {
+                    "shortName": "Plan",
+                    "shortKey": "PLAN-KEY",
+                    "type": "chain",
+                    "enabled": true,
+                    "link": {
+                        "href": "http://domain.com/rest/api/latest/plan/PLAN-KEY",
+                        "rel": "self"
+                    },
+                    "key": "PLAN-KEY",
+                    "name": "Plan name"
+                },
+                "planName": "Plan name",
+                "projectName": "PROJECT-NAME",
+                "lifeCycleState": "Finished",
+                "id": 11600609,
+                "buildStartedTime": "2013-08-01T15:50:45.000+02:00",
+                "prettyBuildStartedTime": "Thu, 1 Aug, 03:50 PM",
+                "buildCompletedTime": "2013-08-01T15:51:46.000+02:00",
+                "prettyBuildCompletedTime": "Thu, 1 Aug, 03:51 PM",
+                "buildDurationInSeconds": 61,
+                "buildDuration": 61140,
+                "buildDurationDescription": "1 minute",
+                "buildRelativeTime": "3 days ago",
+                "vcsRevisionKey": "86dc8ac8d163d4d15b09ca82b3adba67460e4884",
+                "vcsRevisions": {
+                    "size": 1,
+                    "start-index": 0,
+                    "max-result": 1
+                },
+                "buildTestSummary": "10 passed",
+                "successfulTestCount": 10,
+                "failedTestCount": 0,
+                "quarantinedTestCount": 0,
+                "continuable": false,
+                "onceOff": false,
+                "restartable": false,
+                "buildReason": "Changes by <a href=\"http://domain.com/browse/user/someone.somewhere\">Someone Somewhere</a>",
+                "artifacts": {
+                    "size": 0,
+                    "start-index": 0,
+                    "max-result": 0
+                },
+                "comments": {
+                    "size": 0,
+                    "start-index": 0,
+                    "max-result": 0
+                },
+                "labels": {
+                    "size": 0,
+                    "start-index": 0,
+                    "max-result": 0
+                },
+                "jiraIssues": {
+                    "size": 0,
+                    "start-index": 0,
+                    "max-result": 0
+                },
+                "stages": {
+                    "size": 1,
+                    "start-index": 0,
+                    "max-result": 1
+                },
+                "key": "PLAN-KEY",
+                "state": "Successful",
+                "number": 78
+            },
+            {
+                "expand": "plan,vcsRevisions,artifacts,comments,labels,jiraIssues,stages",
+                "link": {
+                    "href": "http://domain.com/rest/api/latest/result/PLAN-KEY-389",
+                    "rel": "self"
+                },
+                "plan": {
+                    "shortName": "Plan",
+                    "shortKey": "PLAN-KEY",
+                    "type": "chain",
+                    "enabled": true,
+                    "link": {
+                        "href": "http://domain.com/rest/api/latest/plan/PLAN-KEY",
+                        "rel": "self"
+                    },
+                    "key": "PLAN-KEY",
+                    "name": "Plan name"
+                },
+                "planName": "Plan name",
+                "projectName": "PROJECT-NAME",
+                "lifeCycleState": "Finished",
+                "id": 11600767,
+                "buildStartedTime": "2013-08-02T15:26:46.000+02:00",
+                "prettyBuildStartedTime": "Fri, 2 Aug, 03:26 PM",
+                "buildCompletedTime": "2013-08-02T15:29:10.000+02:00",
+                "prettyBuildCompletedTime": "Fri, 2 Aug, 03:29 PM",
+                "buildDurationInSeconds": 144,
+                "buildDuration": 144926,
+                "buildDurationDescription": "2 minutes",
+                "buildRelativeTime": "2 days ago",
+                "vcsRevisionKey": "734facaddd3972f21205eecd8d3cbe9f18646c77",
+                "vcsRevisions": {
+                    "size": 1,
+                    "start-index": 0,
+                    "max-result": 1
+                },
+                "buildTestSummary": "307 passed",
+                "successfulTestCount": 307,
+                "failedTestCount": 0,
+                "quarantinedTestCount": 0,
+                "continuable": false,
+                "onceOff": false,
+                "restartable": false,
+                "buildReason": "Changes by <a href=\"http://domain.com/browse/PLAN-KEY-389#changesSummary\">Someone Somewhere</a>",
+                "artifacts": {
+                    "size": 0,
+                    "start-index": 0,
+                    "max-result": 0
+                },
+                "comments": {
+                    "size": 0,
+                    "start-index": 0,
+                    "max-result": 0
+                },
+                "labels": {
+                    "size": 0,
+                    "start-index": 0,
+                    "max-result": 0
+                },
+                "jiraIssues": {
+                    "size": 3,
+                    "start-index": 0,
+                    "max-result": 3
+                },
+                "stages": {
+                    "size": 1,
+                    "start-index": 0,
+                    "max-result": 1
+                },
+                "key": "PLAN-KEY",
+                "state": "Successful",
+                "number": 389
+            },
+            {
+                "expand": "plan,vcsRevisions,artifacts,comments,labels,jiraIssues,stages",
+                "link": {
+                    "href": "http://domain.com/rest/api/latest/result/PLAN-KEY-19",
+                    "rel": "self"
+                },
+                "plan": {
+                    "shortName": "Plan",
+                    "shortKey": "PLAN-KEY",
+                    "type": "chain",
+                    "enabled": true,
+                    "link": {
+                        "href": "http://domain.com/rest/api/latest/plan/PLAN-KEY",
+                        "rel": "self"
+                    },
+                    "key": "PLAN-KEY",
+                    "name": "Plan name"
+                },
+                "planName": "Plan name",
+                "projectName": "PROJECT-NAME",
+                "lifeCycleState": "Finished",
+                "id": 11600801,
+                "buildStartedTime": "2013-08-04T00:21:40.000+02:00",
+                "prettyBuildStartedTime": "Sun, 4 Aug, 12:21 AM",
+                "buildCompletedTime": "2013-08-04T00:28:44.000+02:00",
+                "prettyBuildCompletedTime": "Sun, 4 Aug, 12:28 AM",
+                "buildDurationInSeconds": 424,
+                "buildDuration": 424543,
+                "buildDurationDescription": "7 minutes",
+                "buildRelativeTime": "17 hours ago",
+                "vcsRevisionKey": "86dc8ac8d163d4d15b09ca82b3adba67460e4884",
+                "vcsRevisions": {
+                    "size": 1,
+                    "start-index": 0,
+                    "max-result": 1
+                },
+                "buildTestSummary": "No tests found",
+                "successfulTestCount": 0,
+                "failedTestCount": 0,
+                "quarantinedTestCount": 0,
+                "continuable": false,
+                "onceOff": false,
+                "restartable": true,
+                "buildReason": "Scheduled",
+                "artifacts": {
+                    "size": 0,
+                    "start-index": 0,
+                    "max-result": 0
+                },
+                "comments": {
+                    "size": 0,
+                    "start-index": 0,
+                    "max-result": 0
+                },
+                "labels": {
+                    "size": 0,
+                    "start-index": 0,
+                    "max-result": 0
+                },
+                "jiraIssues": {
+                    "size": 0,
+                    "start-index": 0,
+                    "max-result": 0
+                },
+                "stages": {
+                    "size": 1,
+                    "start-index": 0,
+                    "max-result": 1
+                },
+                "key": "PLAN-KEY",
+                "state": "Failed",
+                "number": 19
+            },
+            {
+                "expand": "plan,vcsRevisions,artifacts,comments,labels,jiraIssues,stages",
+                "link": {
+                    "href": "http://domain.com/rest/api/latest/result/PLAN-KEY-11",
+                    "rel": "self"
+                },
+                "plan": {
+                    "shortName": "Plan",
+                    "shortKey": "PLAN-KEY",
+                    "type": "chain",
+                    "enabled": true,
+                    "link": {
+                        "href": "http://domain.com/rest/api/latest/plan/PLAN-KEY",
+                        "rel": "self"
+                    },
+                    "key": "PLAN-KEY",
+                    "name": "Plan name"
+                },
+                "planName": "Plan name",
+                "projectName": "PROJECT-NAME",
+                "lifeCycleState": "Finished",
+                "id": 11600803,
+                "buildStartedTime": "2013-08-04T00:00:02.000+02:00",
+                "prettyBuildStartedTime": "Sun, 4 Aug, 12:00 AM",
+                "buildCompletedTime": "2013-08-04T00:21:40.000+02:00",
+                "prettyBuildCompletedTime": "Sun, 4 Aug, 12:21 AM",
+                "buildDurationInSeconds": 1298,
+                "buildDuration": 1298477,
+                "buildDurationDescription": "21 minutes",
+                "buildRelativeTime": "17 hours ago",
+                "vcsRevisionKey": "86dc8ac8d163d4d15b09ca82b3adba67460e4884",
+                "vcsRevisions": {
+                    "size": 1,
+                    "start-index": 0,
+                    "max-result": 1
+                },
+                "buildTestSummary": "No tests found",
+                "successfulTestCount": 0,
+                "failedTestCount": 0,
+                "quarantinedTestCount": 0,
+                "continuable": false,
+                "onceOff": false,
+                "restartable": true,
+                "buildReason": "Scheduled",
+                "artifacts": {
+                    "size": 0,
+                    "start-index": 0,
+                    "max-result": 0
+                },
+                "comments": {
+                    "size": 0,
+                    "start-index": 0,
+                    "max-result": 0
+                },
+                "labels": {
+                    "size": 0,
+                    "start-index": 0,
+                    "max-result": 0
+                },
+                "jiraIssues": {
+                    "size": 0,
+                    "start-index": 0,
+                    "max-result": 0
+                },
+                "stages": {
+                    "size": 1,
+                    "start-index": 0,
+                    "max-result": 1
+                },
+                "key": "PLAN-KEY",
+                "state": "Failed",
+                "number": 11
+            },
+            {
+                "expand": "plan,vcsRevisions,artifacts,comments,labels,jiraIssues,stages",
+                "link": {
+                    "href": "http://domain.com/rest/api/latest/result/PLAN-KEY-42",
+                    "rel": "self"
+                },
+                "plan": {
+                    "shortName": "Plan",
+                    "shortKey": "PLAN-KEY",
+                    "type": "chain",
+                    "enabled": true,
+                    "link": {
+                        "href": "http://domain.com/rest/api/latest/plan/PLAN-KEY",
+                        "rel": "self"
+                    },
+                    "key": "PLAN-KEY",
+                    "name": "Plan name"
+                },
+                "planName": "Plan name",
+                "projectName": "PROJECT-NAME",
+                "lifeCycleState": "Finished",
+                "id": 11600799,
+                "buildStartedTime": "2013-08-04T00:28:44.000+02:00",
+                "prettyBuildStartedTime": "Sun, 4 Aug, 12:28 AM",
+                "buildCompletedTime": "2013-08-04T00:29:20.000+02:00",
+                "prettyBuildCompletedTime": "Sun, 4 Aug, 12:29 AM",
+                "buildDurationInSeconds": 36,
+                "buildDuration": 36412,
+                "buildDurationDescription": "36 seconds",
+                "buildRelativeTime": "17 hours ago",
+                "vcsRevisionKey": "86dc8ac8d163d4d15b09ca82b3adba67460e4884",
+                "vcsRevisions": {
+                    "size": 1,
+                    "start-index": 0,
+                    "max-result": 1
+                },
+                "buildTestSummary": "No tests found",
+                "successfulTestCount": 0,
+                "failedTestCount": 0,
+                "quarantinedTestCount": 0,
+                "continuable": false,
+                "onceOff": false,
+                "restartable": false,
+                "buildReason": "Scheduled",
+                "artifacts": {
+                    "size": 0,
+                    "start-index": 0,
+                    "max-result": 0
+                },
+                "comments": {
+                    "size": 0,
+                    "start-index": 0,
+                    "max-result": 0
+                },
+                "labels": {
+                    "size": 0,
+                    "start-index": 0,
+                    "max-result": 0
+                },
+                "jiraIssues": {
+                    "size": 0,
+                    "start-index": 0,
+                    "max-result": 0
+                },
+                "stages": {
+                    "size": 1,
+                    "start-index": 0,
+                    "max-result": 1
+                },
+                "key": "PLAN-KEY",
+                "state": "Successful",
+                "number": 42
+            }
+        ]
+    }, "expand": "results", "link": {
+    "href": "http://domain.com/rest/api/latest/result",
+    "rel": "self"
+}}
