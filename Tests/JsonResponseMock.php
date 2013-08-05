@@ -1,4 +1,5 @@
 <?php
+
 namespace BambooApiBundle\Tests;
 
 class JsonResponseMock
