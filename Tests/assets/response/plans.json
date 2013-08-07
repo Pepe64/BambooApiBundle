@@ -1,0 +1,494 @@
+{
+    "expand": "plans",
+    "link": {
+        "href": "http://domain.com/rest/api/latest/plan",
+        "rel": "self"
+    },
+    "plans": {
+        "expand": "plan",
+        "max-result": 12,
+        "plan": [
+            {
+                "actions": {
+                    "action": [
+                        {
+                            "name": "READ"
+                        }
+                    ],
+                    "max-result": 1,
+                    "size": 1,
+                    "start-index": 0
+                },
+                "averageBuildTimeInSeconds": 136.0,
+                "branches": {
+                    "max-result": 16,
+                    "size": 16,
+                    "start-index": 0
+                },
+                "description": "Plan description.",
+                "enabled": true,
+                "expand": "actions,stages,branches",
+                "isActive": false,
+                "isBuilding": false,
+                "isFavourite": false,
+                "key": "PLAN-KEY",
+                "link": {
+                    "href": "http://domain.com/rest/api/latest/plan/PLAN-KEY",
+                    "rel": "self"
+                },
+                "name": "Project name",
+                "projectKey": "PROJECT-KEY",
+                "projectName": "Project name",
+                "shortKey": "PLAN-KEY",
+                "shortName": "Plan name",
+                "stages": {
+                    "max-result": 1,
+                    "size": 1,
+                    "start-index": 0
+                },
+                "type": "chain"
+            },
+            {
+                "actions": {
+                    "action": [
+                        {
+                            "name": "READ"
+                        }
+                    ],
+                    "max-result": 1,
+                    "size": 1,
+                    "start-index": 0
+                },
+                "averageBuildTimeInSeconds": 9.0,
+                "branches": {
+                    "max-result": 2,
+                    "size": 2,
+                    "start-index": 0
+                },
+                "description": "Description.",
+                "enabled": true,
+                "expand": "actions,stages,branches",
+                "isActive": false,
+                "isBuilding": false,
+                "isFavourite": false,
+                "key": "PLAN-KEY",
+                "link": {
+                    "href": "http://domain.com/rest/api/latest/plan/PLAN-KEY",
+                    "rel": "self"
+                },
+                "name": "Project name",
+                "projectKey": "PROJECT-KEY",
+                "projectName": "Project name",
+                "shortKey": "PLAN-KEY",
+                "shortName": "Plan name",
+                "stages": {
+                    "max-result": 1,
+                    "size": 1,
+                    "start-index": 0
+                },
+                "type": "chain"
+            },
+            {
+                "actions": {
+                    "action": [
+                        {
+                            "name": "READ"
+                        }
+                    ],
+                    "max-result": 1,
+                    "size": 1,
+                    "start-index": 0
+                },
+                "averageBuildTimeInSeconds": 77.0,
+                "branches": {
+                    "max-result": 3,
+                    "size": 3,
+                    "start-index": 0
+                },
+                "description": "Description.",
+                "enabled": true,
+                "expand": "actions,stages,branches",
+                "isActive": false,
+                "isBuilding": false,
+                "isFavourite": false,
+                "key": "PLAN-KEY",
+                "link": {
+                    "href": "http://domain.com/rest/api/latest/plan/PLAN-KEY",
+                    "rel": "self"
+                },
+                "name": "Project name",
+                "projectKey": "PROJECT-KEY",
+                "projectName": "Project name",
+                "shortKey": "PLAN-KEY",
+                "shortName": "Plan name",
+                "stages": {
+                    "max-result": 1,
+                    "size": 1,
+                    "start-index": 0
+                },
+                "type": "chain"
+            },
+            {
+                "actions": {
+                    "action": [
+                        {
+                            "name": "READ"
+                        }
+                    ],
+                    "max-result": 1,
+                    "size": 1,
+                    "start-index": 0
+                },
+                "averageBuildTimeInSeconds": 63.0,
+                "branches": {
+                    "max-result": 2,
+                    "size": 2,
+                    "start-index": 0
+                },
+                "description": "Description.",
+                "enabled": true,
+                "expand": "actions,stages,branches",
+                "isActive": false,
+                "isBuilding": false,
+                "isFavourite": false,
+                "key": "PLAN-KEY",
+                "link": {
+                    "href": "http://domain.com/rest/api/latest/plan/PLAN-KEY",
+                    "rel": "self"
+                },
+                "name": "Project name",
+                "projectKey": "PROJECT-KEY",
+                "projectName": "Project name",
+                "shortKey": "PLAN-KEY",
+                "shortName": "Plan name",
+                "stages": {
+                    "max-result": 1,
+                    "size": 1,
+                    "start-index": 0
+                },
+                "type": "chain"
+            },
+            {
+                "actions": {
+                    "action": [
+                        {
+                            "name": "READ"
+                        }
+                    ],
+                    "max-result": 1,
+                    "size": 1,
+                    "start-index": 0
+                },
+                "averageBuildTimeInSeconds": 355.0,
+                "branches": {
+                    "max-result": 3,
+                    "size": 3,
+                    "start-index": 0
+                },
+                "description": "Description.",
+                "enabled": true,
+                "expand": "actions,stages,branches",
+                "isActive": false,
+                "isBuilding": false,
+                "isFavourite": false,
+                "key": "PLAN-KEY",
+                "link": {
+                    "href": "http://domain.com/rest/api/latest/plan/PLAN-KEY",
+                    "rel": "self"
+                },
+                "name": "Project name",
+                "projectKey": "PROJECT-KEY",
+                "projectName": "Project name",
+                "shortKey": "PLAN-KEY",
+                "shortName": "Plan name",
+                "stages": {
+                    "max-result": 1,
+                    "size": 1,
+                    "start-index": 0
+                },
+                "type": "chain"
+            },
+            {
+                "actions": {
+                    "action": [
+                        {
+                            "name": "READ"
+                        }
+                    ],
+                    "max-result": 1,
+                    "size": 1,
+                    "start-index": 0
+                },
+                "averageBuildTimeInSeconds": 41.0,
+                "branches": {
+                    "max-result": 13,
+                    "size": 13,
+                    "start-index": 0
+                },
+                "description": "Description.",
+                "enabled": true,
+                "expand": "actions,stages,branches",
+                "isActive": false,
+                "isBuilding": false,
+                "isFavourite": false,
+                "key": "PLAN-KEY",
+                "link": {
+                    "href": "http://domain.com/rest/api/latest/plan/PLAN-KEY",
+                    "rel": "self"
+                },
+                "name": "Project name",
+                "projectKey": "PROJECT-KEY",
+                "projectName": "Project name",
+                "shortKey": "PLAN-KEY",
+                "shortName": "Plan name",
+                "stages": {
+                    "max-result": 1,
+                    "size": 1,
+                    "start-index": 0
+                },
+                "type": "chain"
+            },
+            {
+                "actions": {
+                    "action": [
+                        {
+                            "name": "READ"
+                        }
+                    ],
+                    "max-result": 1,
+                    "size": 1,
+                    "start-index": 0
+                },
+                "averageBuildTimeInSeconds": 50.0,
+                "branches": {
+                    "max-result": 12,
+                    "size": 12,
+                    "start-index": 0
+                },
+                "enabled": true,
+                "expand": "actions,stages,branches",
+                "isActive": false,
+                "isBuilding": false,
+                "isFavourite": false,
+                "key": "PLAN-KEY",
+                "link": {
+                    "href": "http://domain.com/rest/api/latest/plan/PLAN-KEY",
+                    "rel": "self"
+                },
+                "name": "Project name",
+                "projectKey": "PROJECT-KEY",
+                "projectName": "Project name",
+                "shortKey": "PLAN-KEY",
+                "shortName": "Plan name",
+                "stages": {
+                    "max-result": 1,
+                    "size": 1,
+                    "start-index": 0
+                },
+                "type": "chain"
+            },
+            {
+                "actions": {
+                    "action": [
+                        {
+                            "name": "READ"
+                        }
+                    ],
+                    "max-result": 1,
+                    "size": 1,
+                    "start-index": 0
+                },
+                "averageBuildTimeInSeconds": 106.0,
+                "branches": {
+                    "max-result": 18,
+                    "size": 18,
+                    "start-index": 0
+                },
+                "description": "Description.",
+                "enabled": true,
+                "expand": "actions,stages,branches",
+                "isActive": false,
+                "isBuilding": false,
+                "isFavourite": false,
+                "key": "PLAN-KEY",
+                "link": {
+                    "href": "http://domain.com/rest/api/latest/plan/PLAN-KEY",
+                    "rel": "self"
+                },
+                "name": "Project name",
+                "projectKey": "PROJECT-KEY",
+                "projectName": "Project name",
+                "shortKey": "PLAN-KEY",
+                "shortName": "Plan name",
+                "stages": {
+                    "max-result": 1,
+                    "size": 1,
+                    "start-index": 0
+                },
+                "type": "chain"
+            },
+            {
+                "actions": {
+                    "action": [
+                        {
+                            "name": "READ"
+                        }
+                    ],
+                    "max-result": 1,
+                    "size": 1,
+                    "start-index": 0
+                },
+                "averageBuildTimeInSeconds": 347.0,
+                "branches": {
+                    "max-result": 25,
+                    "size": 25,
+                    "start-index": 0
+                },
+                "description": "Description.",
+                "enabled": true,
+                "expand": "actions,stages,branches",
+                "isActive": false,
+                "isBuilding": false,
+                "isFavourite": false,
+                "key": "PLAN-KEY",
+                "link": {
+                    "href": "http://domain.com/rest/api/latest/plan/PLAN-KEY",
+                    "rel": "self"
+                },
+                "name": "Project name",
+                "projectKey": "PROJECT-KEY",
+                "projectName": "Project name",
+                "shortKey": "PLAN-KEY",
+                "shortName": "Plan name",
+                "stages": {
+                    "max-result": 1,
+                    "size": 1,
+                    "start-index": 0
+                },
+                "type": "chain"
+            },
+            {
+                "actions": {
+                    "action": [
+                        {
+                            "name": "READ"
+                        }
+                    ],
+                    "max-result": 1,
+                    "size": 1,
+                    "start-index": 0
+                },
+                "averageBuildTimeInSeconds": 3342.0,
+                "branches": {
+                    "max-result": 0,
+                    "size": 0,
+                    "start-index": 0
+                },
+                "description": "Description.",
+                "enabled": true,
+                "expand": "actions,stages,branches",
+                "isActive": false,
+                "isBuilding": false,
+                "isFavourite": false,
+                "key": "PLAN-KEY",
+                "link": {
+                    "href": "http://domain.com/rest/api/latest/plan/PLAN-KEY",
+                    "rel": "self"
+                },
+                "name": "Project name",
+                "projectKey": "PROJECT-KEY",
+                "projectName": "Project name",
+                "shortKey": "PLAN-KEY",
+                "shortName": "Plan name",
+                "stages": {
+                    "max-result": 1,
+                    "size": 1,
+                    "start-index": 0
+                },
+                "type": "chain"
+            },
+            {
+                "actions": {
+                    "action": [
+                        {
+                            "name": "READ"
+                        }
+                    ],
+                    "max-result": 1,
+                    "size": 1,
+                    "start-index": 0
+                },
+                "averageBuildTimeInSeconds": 2091.0,
+                "branches": {
+                    "max-result": 0,
+                    "size": 0,
+                    "start-index": 0
+                },
+                "description": "Description.",
+                "enabled": true,
+                "expand": "actions,stages,branches",
+                "isActive": false,
+                "isBuilding": false,
+                "isFavourite": false,
+                "key": "PLAN-KEY",
+                "link": {
+                    "href": "http://domain.com/rest/api/latest/plan/PLAN-KEY",
+                    "rel": "self"
+                },
+                "name": "Project name",
+                "projectKey": "PROJECT-KEY",
+                "projectName": "Project name",
+                "shortKey": "PLAN-KEY",
+                "shortName": "Plan name",
+                "stages": {
+                    "max-result": 1,
+                    "size": 1,
+                    "start-index": 0
+                },
+                "type": "chain"
+            },
+            {
+                "actions": {
+                    "action": [
+                        {
+                            "name": "READ"
+                        }
+                    ],
+                    "max-result": 1,
+                    "size": 1,
+                    "start-index": 0
+                },
+                "averageBuildTimeInSeconds": 1617.0,
+                "branches": {
+                    "max-result": 0,
+                    "size": 0,
+                    "start-index": 0
+                },
+                "description": "Description.",
+                "enabled": true,
+                "expand": "actions,stages,branches",
+                "isActive": false,
+                "isBuilding": false,
+                "isFavourite": false,
+                "key": "PLAN-KEY",
+                "link": {
+                    "href": "http://domain.com/rest/api/latest/plan/PLAN-KEY",
+                    "rel": "self"
+                },
+                "name": "Project name",
+                "projectKey": "PROJECT-KEY",
+                "projectName": "Project name",
+                "shortKey": "PLAN-KEY",
+                "shortName": "Plan name",
+                "stages": {
+                    "max-result": 1,
+                    "size": 1,
+                    "start-index": 0
+                },
+                "type": "chain"
+            }
+        ],
+        "size": 12,
+        "start-index": 0
+    }
+}
