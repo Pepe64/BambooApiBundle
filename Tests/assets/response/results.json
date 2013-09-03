@@ -8,23 +8,23 @@
             {
                 "expand": "plan,vcsRevisions,artifacts,comments,labels,jiraIssues,stages",
                 "link": {
-                    "href": "http://bamboo.medicore.nl/rest/api/latest/result/ATLAS-BACKEND-70",
+                    "href": "http://domain.com/rest/api/latest/result/PLAN-KEY-70",
                     "rel": "self"
                 },
                 "plan": {
-                    "shortName": "Atlas",
-                    "shortKey": "BACKEND",
+                    "shortName": "Plan",
+                    "shortKey": "PLAN-KEY",
                     "type": "chain",
                     "enabled": true,
                     "link": {
-                        "href": "http://bamboo.medicore.nl/rest/api/latest/plan/ATLAS-BACKEND",
+                        "href": "http://domain.com/rest/api/latest/plan/PLAN-KEY",
                         "rel": "self"
                     },
-                    "key": "ATLAS-BACKEND",
-                    "name": "Atlas - Atlas"
+                    "key": "PLAN-KEY",
+                    "name": "Plan name"
                 },
-                "planName": "Atlas",
-                "projectName": "Atlas",
+                "planName": "Plan name",
+                "projectName": "PROJECT-NAME",
                 "lifeCycleState": "Finished",
                 "id": 11600489,
                 "buildStartedTime": "2013-07-31T16:23:40.000+02:00",
@@ -48,7 +48,7 @@
                 "continuable": false,
                 "onceOff": false,
                 "restartable": false,
-                "buildReason": "Changes by <a href=\"http://bamboo.medicore.nl/browse/user/kees.schepers\">Kees Schepers</a>",
+                "buildReason": "Changes by <a href=\"http://domain.com/browse/user/someone.somewhere\">Someone Somewhere</a>",
                 "artifacts": {
                     "size": 0,
                     "start-index": 0,
@@ -74,30 +74,30 @@
                     "start-index": 0,
                     "max-result": 1
                 },
-                "key": "ATLAS-BACKEND-70",
+                "key": "PLAN-KEY-70",
                 "state": "Successful",
                 "number": 70
             },
             {
                 "expand": "plan,vcsRevisions,artifacts,comments,labels,jiraIssues,stages",
                 "link": {
-                    "href": "http://bamboo.medicore.nl/rest/api/latest/result/ATLAS-ATLASCLIBUNDLE-10",
+                    "href": "http://domain.com/rest/api/latest/result/PLAN-KEY-10",
                     "rel": "self"
                 },
                 "plan": {
-                    "shortName": "AtlasCliBundle",
-                    "shortKey": "ATLASCLIBUNDLE",
+                    "shortName": "Plan",
+                    "shortKey": "PLAN-KEY",
                     "type": "chain",
                     "enabled": true,
                     "link": {
-                        "href": "http://bamboo.medicore.nl/rest/api/latest/plan/ATLAS-ATLASCLIBUNDLE",
+                        "href": "http://domain.com/rest/api/latest/plan/PLAN-KEY",
                         "rel": "self"
                     },
-                    "key": "ATLAS-ATLASCLIBUNDLE",
-                    "name": "Atlas - AtlasCliBundle"
+                    "key": "PLAN-KEY",
+                    "name": "Plan name"
                 },
-                "planName": "AtlasCliBundle",
-                "projectName": "Atlas",
+                "planName": "Plan name",
+                "projectName": "PROJECT-NAME",
                 "lifeCycleState": "Finished",
                 "id": 11600117,
                 "buildStartedTime": "2013-07-29T15:46:40.000+02:00",
@@ -121,7 +121,7 @@
                 "continuable": false,
                 "onceOff": false,
                 "restartable": false,
-                "buildReason": "Changes by <a href=\"http://bamboo.medicore.nl/browse/user/peterpaul.keulers\">Peter Paul Keulers</a> and <a href=\"http://bamboo.medicore.nl/browse/user/kees.schepers\">Kees Schepers</a>",
+                "buildReason": "Changes by <a href=\"http://domain.com/browse/user/someone.somewhere\">Someone Somewhere</a>",
                 "artifacts": {
                     "size": 0,
                     "start-index": 0,
@@ -147,30 +147,30 @@
                     "start-index": 0,
                     "max-result": 1
                 },
-                "key": "ATLAS-ATLASCLIBUNDLE-10",
+                "key": "PLAN-KEY",
                 "state": "Successful",
                 "number": 10
             },
             {
                 "expand": "plan,vcsRevisions,artifacts,comments,labels,jiraIssues,stages",
                 "link": {
-                    "href": "http://bamboo.medicore.nl/rest/api/latest/result/CONNECT-PULLREQUEST-32",
+                    "href": "http://domain.com/rest/api/latest/result/PLAN-KEY-32",
                     "rel": "self"
                 },
                 "plan": {
-                    "shortName": "Connect",
-                    "shortKey": "PULLREQUEST",
+                    "shortName": "Plan",
+                    "shortKey": "PLAN-KEY",
                     "type": "chain",
                     "enabled": true,
                     "link": {
-                        "href": "http://bamboo.medicore.nl/rest/api/latest/plan/CONNECT-PULLREQUEST",
+                        "href": "http://domain.com/rest/api/latest/plan/PLAN-KEY",
                         "rel": "self"
                     },
-                    "key": "CONNECT-PULLREQUEST",
-                    "name": "Connect - Connect"
+                    "key": "PLAN-KEY",
+                    "name": "Plan name"
                 },
-                "planName": "Connect",
-                "projectName": "Connect",
+                "planName": "Plan name",
+                "projectName": "PROJECT-NAME",
                 "lifeCycleState": "Finished",
                 "id": 11600089,
                 "buildStartedTime": "2013-07-29T13:52:49.000+02:00",
@@ -194,7 +194,7 @@
                 "continuable": false,
                 "onceOff": false,
                 "restartable": false,
-                "buildReason": "Manual run by <a href=\"http://bamboo.medicore.nl/browse/user/peterpaul.keulers\">Peter Paul Keulers</a>",
+                "buildReason": "Manual run by <a href=\"http://domain.com/browse/user/someone.somewhere\">Someone Somewhere</a>",
                 "artifacts": {
                     "size": 0,
                     "start-index": 0,
@@ -220,30 +220,30 @@
                     "start-index": 0,
                     "max-result": 1
                 },
-                "key": "CONNECT-PULLREQUEST-32",
+                "key": "PLAN-KEY",
                 "state": "Successful",
                 "number": 32
             },
             {
                 "expand": "plan,vcsRevisions,artifacts,comments,labels,jiraIssues,stages",
                 "link": {
-                    "href": "http://bamboo.medicore.nl/rest/api/latest/result/MCIS-DOT-38",
+                    "href": "http://domain.com/rest/api/latest/result/PLAN-KEY-38",
                     "rel": "self"
                 },
                 "plan": {
-                    "shortName": "Dot Validations",
-                    "shortKey": "DOT",
+                    "shortName": "Plan",
+                    "shortKey": "PLAN-KEY",
                     "type": "chain",
                     "enabled": true,
                     "link": {
-                        "href": "http://bamboo.medicore.nl/rest/api/latest/plan/MCIS-DOT",
+                        "href": "http://domain.com/rest/api/latest/plan/PLAN-KEY",
                         "rel": "self"
                     },
-                    "key": "MCIS-DOT",
-                    "name": "MCIS - Dot Validations"
+                    "key": "PLAN-KEY",
+                    "name": "Plan name"
                 },
-                "planName": "Dot Validations",
-                "projectName": "MCIS",
+                "planName": "Plan name",
+                "projectName": "PROJECT-NAME",
                 "lifeCycleState": "Finished",
                 "id": 11600721,
                 "buildStartedTime": "2013-08-02T11:18:43.000+02:00",
@@ -267,7 +267,7 @@
                 "continuable": false,
                 "onceOff": false,
                 "restartable": false,
-                "buildReason": "Changes by <a href=\"http://bamboo.medicore.nl/browse/user/paul.krijgsman\">Paul Krijgsman</a>",
+                "buildReason": "Changes by <a href=\"http://domain.com/browse/user/someone.somewhere\">Someone Somewhere</a>",
                 "artifacts": {
                     "size": 0,
                     "start-index": 0,
@@ -293,30 +293,30 @@
                     "start-index": 0,
                     "max-result": 1
                 },
-                "key": "MCIS-DOT-38",
+                "key": "PLAN-KEY",
                 "state": "Successful",
                 "number": 38
             },
             {
                 "expand": "plan,vcsRevisions,artifacts,comments,labels,jiraIssues,stages",
                 "link": {
-                    "href": "http://bamboo.medicore.nl/rest/api/latest/result/MCIS-EMRUNIQUEID-37",
+                    "href": "http://domain.com/rest/api/latest/result/PLAN-KEY-37",
                     "rel": "self"
                 },
                 "plan": {
-                    "shortName": "EMR Toolkit",
-                    "shortKey": "EMRUNIQUEID",
+                    "shortName": "Plan",
+                    "shortKey": "PLAN-KEY",
                     "type": "chain",
                     "enabled": true,
                     "link": {
-                        "href": "http://bamboo.medicore.nl/rest/api/latest/plan/MCIS-EMRUNIQUEID",
+                        "href": "http://domain.com/rest/api/latest/plan/PLAN-KEY",
                         "rel": "self"
                     },
-                    "key": "MCIS-EMRUNIQUEID",
-                    "name": "MCIS - EMR Toolkit"
+                    "key": "PLAN-KEY",
+                    "name": "Plan name"
                 },
-                "planName": "EMR Toolkit",
-                "projectName": "MCIS",
+                "planName": "Plan name",
+                "projectName": "PROJECT-NAME",
                 "lifeCycleState": "Finished",
                 "id": 11600493,
                 "buildStartedTime": "2013-07-31T16:32:40.000+02:00",
@@ -340,7 +340,7 @@
                 "continuable": false,
                 "onceOff": false,
                 "restartable": false,
-                "buildReason": "Manual run by <a href=\"http://bamboo.medicore.nl/browse/user/abhinit.ravi\">Abhinit Ravi</a>",
+                "buildReason": "Manual run by <a href=\"http://domain.com/browse/user/someone.somewhere\">Someone Somewhere</a>",
                 "artifacts": {
                     "size": 0,
                     "start-index": 0,
@@ -366,30 +366,30 @@
                     "start-index": 0,
                     "max-result": 1
                 },
-                "key": "MCIS-EMRUNIQUEID-37",
+                "key": "PLAN-KEY",
                 "state": "Successful",
                 "number": 37
             },
             {
                 "expand": "plan,vcsRevisions,artifacts,comments,labels,jiraIssues,stages",
                 "link": {
-                    "href": "http://bamboo.medicore.nl/rest/api/latest/result/MCIS-MCGUI-232",
+                    "href": "http://domain.com/rest/api/latest/result/PLAN-KEY-232",
                     "rel": "self"
                 },
                 "plan": {
-                    "shortName": "GUI",
-                    "shortKey": "MCGUI",
+                    "shortName": "Plan",
+                    "shortKey": "PLAN-KEY",
                     "type": "chain",
                     "enabled": true,
                     "link": {
-                        "href": "http://bamboo.medicore.nl/rest/api/latest/plan/MCIS-MCGUI",
+                        "href": "http://domain.com/rest/api/latest/plan/PLAN-KEY",
                         "rel": "self"
                     },
-                    "key": "MCIS-MCGUI",
-                    "name": "MCIS - GUI"
+                    "key": "PLAN-KEY",
+                    "name": "Plan name"
                 },
-                "planName": "GUI",
-                "projectName": "MCIS",
+                "planName": "Plan name",
+                "projectName": "PROJECT-NAME",
                 "lifeCycleState": "Finished",
                 "id": 11600735,
                 "buildStartedTime": "2013-08-02T12:09:47.000+02:00",
@@ -413,7 +413,7 @@
                 "continuable": false,
                 "onceOff": false,
                 "restartable": false,
-                "buildReason": "Changes by <a href=\"http://bamboo.medicore.nl/browse/user/holger.thiebosch\">Holger Thiebosch</a>",
+                "buildReason": "Changes by <a href=\"http://domain.com/browse/user/someone.somewhere\">Someone Somewhere</a>",
                 "artifacts": {
                     "size": 0,
                     "start-index": 0,
@@ -439,30 +439,30 @@
                     "start-index": 0,
                     "max-result": 1
                 },
-                "key": "MCIS-MCGUI-232",
+                "key": "PLAN-KEY",
                 "state": "Successful",
                 "number": 232
             },
             {
                 "expand": "plan,vcsRevisions,artifacts,comments,labels,jiraIssues,stages",
                 "link": {
-                    "href": "http://bamboo.medicore.nl/rest/api/latest/result/MCIS-LEGAL-106",
+                    "href": "http://domain.com/rest/api/latest/result/PLAN-KEY-106",
                     "rel": "self"
                 },
                 "plan": {
-                    "shortName": "Legal Changes",
-                    "shortKey": "LEGAL",
+                    "shortName": "Plan",
+                    "shortKey": "PLAN-KEY",
                     "type": "chain",
                     "enabled": true,
                     "link": {
-                        "href": "http://bamboo.medicore.nl/rest/api/latest/plan/MCIS-LEGAL",
+                        "href": "http://domain.com/rest/api/latest/plan/PLAN-KEY",
                         "rel": "self"
                     },
-                    "key": "MCIS-LEGAL",
-                    "name": "MCIS - Legal Changes"
+                    "key": "PLAN-KEY",
+                    "name": "Plan name"
                 },
-                "planName": "Legal Changes",
-                "projectName": "MCIS",
+                "planName": "Plan name",
+                "projectName": "PROJECT-NAME",
                 "lifeCycleState": "Finished",
                 "id": 11600693,
                 "buildStartedTime": "2013-08-02T09:57:47.000+02:00",
@@ -486,7 +486,7 @@
                 "continuable": false,
                 "onceOff": false,
                 "restartable": false,
-                "buildReason": "Changes by <a href=\"http://bamboo.medicore.nl/browse/user/jeroen.sen\">Jeroen Sen</a> and <a href=\"http://bamboo.medicore.nl/browse/user/karuppachamy\">Karuppachamy Shanmugavel</a>",
+                "buildReason": "Changes by <a href=\"http://domain.com/browse/user/someone.somewhere\">Someone Somewhere</a>",
                 "artifacts": {
                     "size": 0,
                     "start-index": 0,
@@ -512,30 +512,30 @@
                     "start-index": 0,
                     "max-result": 1
                 },
-                "key": "MCIS-LEGAL-106",
+                "key": "PLAN-KEY",
                 "state": "Successful",
                 "number": 106
             },
             {
                 "expand": "plan,vcsRevisions,artifacts,comments,labels,jiraIssues,stages",
                 "link": {
-                    "href": "http://bamboo.medicore.nl/rest/api/latest/result/MCIS-MAINTENANCE-78",
+                    "href": "http://domain.com/rest/api/latest/result/PLAN-KEY-78",
                     "rel": "self"
                 },
                 "plan": {
-                    "shortName": "Maintenance",
-                    "shortKey": "MAINTENANCE",
+                    "shortName": "Plan",
+                    "shortKey": "PLAN-KEY",
                     "type": "chain",
                     "enabled": true,
                     "link": {
-                        "href": "http://bamboo.medicore.nl/rest/api/latest/plan/MCIS-MAINTENANCE",
+                        "href": "http://domain.com/rest/api/latest/plan/PLAN-KEY",
                         "rel": "self"
                     },
-                    "key": "MCIS-MAINTENANCE",
-                    "name": "MCIS - Maintenance"
+                    "key": "PLAN-KEY",
+                    "name": "Plan name"
                 },
-                "planName": "Maintenance",
-                "projectName": "MCIS",
+                "planName": "Plan name",
+                "projectName": "PROJECT-NAME",
                 "lifeCycleState": "Finished",
                 "id": 11600609,
                 "buildStartedTime": "2013-08-01T15:50:45.000+02:00",
@@ -559,7 +559,7 @@
                 "continuable": false,
                 "onceOff": false,
                 "restartable": false,
-                "buildReason": "Changes by <a href=\"http://bamboo.medicore.nl/browse/user/johan.hage\">Johan Hage</a>",
+                "buildReason": "Changes by <a href=\"http://domain.com/browse/user/someone.somewhere\">Someone Somewhere</a>",
                 "artifacts": {
                     "size": 0,
                     "start-index": 0,
@@ -585,30 +585,30 @@
                     "start-index": 0,
                     "max-result": 1
                 },
-                "key": "MCIS-MAINTENANCE-78",
+                "key": "PLAN-KEY",
                 "state": "Successful",
                 "number": 78
             },
             {
                 "expand": "plan,vcsRevisions,artifacts,comments,labels,jiraIssues,stages",
                 "link": {
-                    "href": "http://bamboo.medicore.nl/rest/api/latest/result/MCIS-REBUILDPULLREQUEST-389",
+                    "href": "http://domain.com/rest/api/latest/result/PLAN-KEY-389",
                     "rel": "self"
                 },
                 "plan": {
-                    "shortName": "MCIS Rebuild 3.0",
-                    "shortKey": "REBUILDPULLREQUEST",
+                    "shortName": "Plan",
+                    "shortKey": "PLAN-KEY",
                     "type": "chain",
                     "enabled": true,
                     "link": {
-                        "href": "http://bamboo.medicore.nl/rest/api/latest/plan/MCIS-REBUILDPULLREQUEST",
+                        "href": "http://domain.com/rest/api/latest/plan/PLAN-KEY",
                         "rel": "self"
                     },
-                    "key": "MCIS-REBUILDPULLREQUEST",
-                    "name": "MCIS - MCIS Rebuild 3.0"
+                    "key": "PLAN-KEY",
+                    "name": "Plan name"
                 },
-                "planName": "MCIS Rebuild 3.0",
-                "projectName": "MCIS",
+                "planName": "Plan name",
+                "projectName": "PROJECT-NAME",
                 "lifeCycleState": "Finished",
                 "id": 11600767,
                 "buildStartedTime": "2013-08-02T15:26:46.000+02:00",
@@ -632,7 +632,7 @@
                 "continuable": false,
                 "onceOff": false,
                 "restartable": false,
-                "buildReason": "Changes by <a href=\"http://bamboo.medicore.nl/browse/MCIS-REBUILDPULLREQUEST-389#changesSummary\">6 people</a>",
+                "buildReason": "Changes by <a href=\"http://domain.com/browse/PLAN-KEY-389#changesSummary\">Someone Somewhere</a>",
                 "artifacts": {
                     "size": 0,
                     "start-index": 0,
@@ -658,30 +658,30 @@
                     "start-index": 0,
                     "max-result": 1
                 },
-                "key": "MCIS-REBUILDPULLREQUEST-389",
+                "key": "PLAN-KEY",
                 "state": "Successful",
                 "number": 389
             },
             {
                 "expand": "plan,vcsRevisions,artifacts,comments,labels,jiraIssues,stages",
                 "link": {
-                    "href": "http://bamboo.medicore.nl/rest/api/latest/result/MCIS-MCISRELEASEGGZ-19",
+                    "href": "http://domain.com/rest/api/latest/result/PLAN-KEY-19",
                     "rel": "self"
                 },
                 "plan": {
-                    "shortName": "MCIS Release (GGZ)",
-                    "shortKey": "MCISRELEASEGGZ",
+                    "shortName": "Plan",
+                    "shortKey": "PLAN-KEY",
                     "type": "chain",
                     "enabled": true,
                     "link": {
-                        "href": "http://bamboo.medicore.nl/rest/api/latest/plan/MCIS-MCISRELEASEGGZ",
+                        "href": "http://domain.com/rest/api/latest/plan/PLAN-KEY",
                         "rel": "self"
                     },
-                    "key": "MCIS-MCISRELEASEGGZ",
-                    "name": "MCIS - MCIS Release (GGZ)"
+                    "key": "PLAN-KEY",
+                    "name": "Plan name"
                 },
-                "planName": "MCIS Release (GGZ)",
-                "projectName": "MCIS",
+                "planName": "Plan name",
+                "projectName": "PROJECT-NAME",
                 "lifeCycleState": "Finished",
                 "id": 11600801,
                 "buildStartedTime": "2013-08-04T00:21:40.000+02:00",
@@ -731,30 +731,30 @@
                     "start-index": 0,
                     "max-result": 1
                 },
-                "key": "MCIS-MCISRELEASEGGZ-19",
+                "key": "PLAN-KEY",
                 "state": "Failed",
                 "number": 19
             },
             {
                 "expand": "plan,vcsRevisions,artifacts,comments,labels,jiraIssues,stages",
                 "link": {
-                    "href": "http://bamboo.medicore.nl/rest/api/latest/result/MCIS-MCISRELEASESOMATIC-11",
+                    "href": "http://domain.com/rest/api/latest/result/PLAN-KEY-11",
                     "rel": "self"
                 },
                 "plan": {
-                    "shortName": "MCIS Release (Somatic)",
-                    "shortKey": "MCISRELEASESOMATIC",
+                    "shortName": "Plan",
+                    "shortKey": "PLAN-KEY",
                     "type": "chain",
                     "enabled": true,
                     "link": {
-                        "href": "http://bamboo.medicore.nl/rest/api/latest/plan/MCIS-MCISRELEASESOMATIC",
+                        "href": "http://domain.com/rest/api/latest/plan/PLAN-KEY",
                         "rel": "self"
                     },
-                    "key": "MCIS-MCISRELEASESOMATIC",
-                    "name": "MCIS - MCIS Release (Somatic)"
+                    "key": "PLAN-KEY",
+                    "name": "Plan name"
                 },
-                "planName": "MCIS Release (Somatic)",
-                "projectName": "MCIS",
+                "planName": "Plan name",
+                "projectName": "PROJECT-NAME",
                 "lifeCycleState": "Finished",
                 "id": 11600803,
                 "buildStartedTime": "2013-08-04T00:00:02.000+02:00",
@@ -804,30 +804,30 @@
                     "start-index": 0,
                     "max-result": 1
                 },
-                "key": "MCIS-MCISRELEASESOMATIC-11",
+                "key": "PLAN-KEY",
                 "state": "Failed",
                 "number": 11
             },
             {
                 "expand": "plan,vcsRevisions,artifacts,comments,labels,jiraIssues,stages",
                 "link": {
-                    "href": "http://bamboo.medicore.nl/rest/api/latest/result/MCIS-TOSCA-42",
+                    "href": "http://domain.com/rest/api/latest/result/PLAN-KEY-42",
                     "rel": "self"
                 },
                 "plan": {
-                    "shortName": "Tosca",
-                    "shortKey": "TOSCA",
+                    "shortName": "Plan",
+                    "shortKey": "PLAN-KEY",
                     "type": "chain",
                     "enabled": true,
                     "link": {
-                        "href": "http://bamboo.medicore.nl/rest/api/latest/plan/MCIS-TOSCA",
+                        "href": "http://domain.com/rest/api/latest/plan/PLAN-KEY",
                         "rel": "self"
                     },
-                    "key": "MCIS-TOSCA",
-                    "name": "MCIS - Tosca"
+                    "key": "PLAN-KEY",
+                    "name": "Plan name"
                 },
-                "planName": "Tosca",
-                "projectName": "MCIS",
+                "planName": "Plan name",
+                "projectName": "PROJECT-NAME",
                 "lifeCycleState": "Finished",
                 "id": 11600799,
                 "buildStartedTime": "2013-08-04T00:28:44.000+02:00",
@@ -877,12 +877,12 @@
                     "start-index": 0,
                     "max-result": 1
                 },
-                "key": "MCIS-TOSCA-42",
+                "key": "PLAN-KEY",
                 "state": "Successful",
                 "number": 42
             }
         ]
     }, "expand": "results", "link": {
-    "href": "http://bamboo.medicore.nl/rest/api/latest/result",
+    "href": "http://domain.com/rest/api/latest/result",
     "rel": "self"
 }}
