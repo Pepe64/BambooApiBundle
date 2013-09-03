@@ -2,6 +2,9 @@
 
 namespace BambooApiBundle\Tests;
 
+/**
+ * Mocks JSON responses for unit testing purposes.
+ */
 class JsonResponseMock
 {
     protected $response;
